@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fosmis</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="main_page">Main Page</string>
+    <string name="log_in">Log In</string>
+    <string name="fosmis">fosmis</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="notices">Notices</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="core_courses">Core Courses</string>
+    <string name="degree">Degree</string>
+    <string name="non_degree">Non Degree</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="exam_registration">Exam Registration</string>
+    <string name="finish">Finish</string>
+    <string name="core_optional">Core/Optional</string>
+    <string name="not_registered">NOT REGISTERED</string>
+    <string name="repeat_exam">REPEAT EXAM</string>
+</resources>

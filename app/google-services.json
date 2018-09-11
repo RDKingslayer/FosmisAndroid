@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "218998152135",
+    "firebase_url": "https://fosmispush.firebaseio.com",
+    "project_id": "fosmispush",
+    "storage_bucket": "fosmispush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218998152135:android:bf87e86992704e1b",
+        "android_client_info": {
+          "package_name": "com.kingslayer.fosmis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218998152135-59us8kln8ltog6ti1qj65nmor4tspska.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingslayer.fosmis",
+            "certificate_hash": "fdda683b25bc622d1e3a70b4c1c52810a95f97d7"
+          }
+        },
+        {
+          "client_id": "218998152135-kl6n007qtunp92cg938sq4ujvk8gg4fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingslayer.fosmis",
+            "certificate_hash": "a783a520b766f7059c9bac693630372bc4da8d9c"
+          }
+        },
+        {
+          "client_id": "218998152135-5o2ofste6q9g73rvoju1082dluul6kqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbt4usZMeMx1GrOZgybxYdHSX_QcTkvHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218998152135-5o2ofste6q9g73rvoju1082dluul6kqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
